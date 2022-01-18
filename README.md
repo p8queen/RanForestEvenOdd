@@ -1,4 +1,4 @@
 # Support vector Machine
 
-Testing a classification problem the I thought one night over the pillow. 
+Testing a classification problem that I thought one night over the pillow. 
  
